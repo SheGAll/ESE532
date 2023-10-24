@@ -1,6 +1,6 @@
 #include "Pipeline.h"
 #include <stdlib.h>
-
+//This is boring
 static unsigned Coefficients[] = {2, 15, 62, 98, 62, 15, 2};
 
 static void Filter_horizontal_SW(const unsigned char * Input,
